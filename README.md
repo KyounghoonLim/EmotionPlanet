@@ -80,7 +80,7 @@
 
 ## Develop Stack
 
-| <img src="C:\Users\SSAFY\Desktop\자율 프로젝트\README_asset\HTML.png" alt="HTML" style="zoom:10%;" /> | <img src=".\README_asset\CSS.png" alt="CSS" style="zoom:13%;" /> | <img src=".\README_asset\JS.png" alt="JS" style="zoom:50%;" /> | <img src=".\README_asset\vue.png" alt="vue" style="zoom:33%;" /> | <img src=".\README_asset\spring.png" alt="spring" style="zoom:50%;" /> |
+| <img src="./README_asset/HTML.png" alt="HTML" style="zoom:10%;" /> | <img src="./README_asset/CSS.png" alt="CSS" style="zoom:13%;" /> | <img src="./README_asset/JS.png" alt="JS" style="zoom:50%;" /> | <img src="./README_asset/vue.png" alt="vue" style="zoom:33%;" /> | <img src="./README_asset/spring.png" alt="spring" style="zoom:50%;" /> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
 
 ++ Google Oauth2, JWT, WebSocket ...
