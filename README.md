@@ -22,7 +22,7 @@
 
 ### 2. Main - My page
 
-![2](.\README_asset\2.gif)
+![2](./README_asset/2.gif)
 
 ▶ 메인 페이지의 추천 목록은 carousel 형식으로 fit 한 UI 구현, 사용자 편의성 제공
 
@@ -34,7 +34,7 @@
 
 ### 3. Search - User page
 
-![3](.\README_asset\3.gif)
+![3](./README_asset/3.gif)
 
 ▶ 검색바에 키워드 input event 시 서버에 저장된 게시글, 사용자, 찜 목록 이름과 대조해 결과 제공
 
@@ -46,7 +46,7 @@
 
 ### 4. Setting
 
-![4](.\README_asset\4.gif)
+![4](./README_asset/4.gif)
 
 ▶ 사용자 프로필 변경 페이지에서 프로필 이미지, 닉네임, 소개글, 비밀번호 변경 제공
 
